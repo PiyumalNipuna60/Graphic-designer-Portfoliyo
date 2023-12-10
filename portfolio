@@ -1,0 +1,131 @@
+<section class="portfolio" id="portfolio">
+                            <div class="spacer-75"></div>
+                            <!-- Page Caption -->
+                            <div class="section-title page-caption">
+                                <h5>Portfolio</h5>
+                                <div class="zigzag">
+                                    <hr class="left">
+                                    <hr class="right">
+                                    <svg xml:space="preserve" viewBox="0 0 69.172 14.975" width="37" height="28" y="0px"
+                                         x="0px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+                        <path d="M1.357,12.26 10.807,2.81 20.328,12.332
+                        29.781,2.879 39.223,12.321 48.754,2.79 58.286,12.321 67.815,2.793 "
+                              style="stroke-dasharray: 93.9851, 93.9851; stroke-dashoffset: 0;"></path>
+                        </svg>
+                                </div>
+                            </div>
+                            <div class="spacer-45"></div>
+
+                            <div class="row masonry">
+
+                                <!-- portfolio item 01-->
+                                <a href="work-1.html" class="col-xl-4 col-lg-6 col-md-6 grid-item photography">
+                                    <div class="work-holder scale-animation" data-duration="2" data-delay=".3">
+                                        <figure class="portfolio-item">
+                                            <div style="width: 100%; height: 38vh;">
+                                                <img src="images/works/facebook_post/05.jpg" alt="">
+                                            </div>
+                                            <figcaption>
+                                                <div class="outer">
+                                                    <div class="inner">
+                                                        <span>my work</span>
+                                                        <h3 class="title">Facebook Posts</h3>
+                                                    </div>
+                                                </div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </a>
+                                <!-- portfolio item 02-->
+                                <a href="work-2.html" class="col-xl-4 col-lg-6 col-md-6 grid-item branding">
+                                    <div class="work-holder scale-animation" data-delay=".4" data-duration="2">
+                                        <figure class="portfolio-item">
+                                            <div style="width: 100%; height: 38vh;">
+                                                <img src="images/works/facebook_post/03.jpg" alt="">
+                                            </div>
+                                            <figcaption>
+                                                <div class="outer">
+                                                    <div class="inner">
+                                                        <span>my work </span>
+                                                        <h3 class="title">Facebook Cover</h3>
+                                                    </div>
+                                                </div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </a>
+                                <!-- portfolio item 03-->
+                                <a href="work-3.html" class="col-xl-4 col-lg-6 col-md-6 grid-item other">
+                                    <div class="work-holder scale-animation" data-delay=".8" data-duration="2">
+                                        <figure class="portfolio-item">
+                                            <div style="width: 100%; height: 38vh;">
+                                                <img src="images/works/brochure_design/01.jpg" alt="">
+                                            </div>
+                                            <figcaption>
+                                                <div class="outer">
+                                                    <div class="inner">
+                                                        <span>my work </span>
+                                                        <h3 class="title">Brochure Design</h3>
+                                                    </div>
+                                                </div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </a>
+                                <!-- portfolio item 04-->
+                                <a href="work-4.html" class="col-xl-4 col-lg-6 col-md-6 grid-item photography">
+                                    <div class="work-holder scale-animation" data-delay=".7" data-duration="2">
+                                        <figure class="portfolio-item">
+                                            <div style="width: 100%; height: 38vh;">
+                                                <img src="images/works/brochure_design/01.jpg" alt="">
+                                            </div>
+                                            <figcaption>
+                                                <div class="outer">
+                                                    <div class="inner">
+                                                        <span>my work</span>
+                                                        <h3 class="title">Lable Design</h3>
+                                                    </div>
+                                                </div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </a>
+                                <!-- portfolio item 05-->
+                                <a href="work-5.html" class="col-xl-4 col-lg-6 col-md-6 grid-item photography">
+                                    <div class="work-holder scale-animation" data-delay=".6" data-duration="2">
+                                        <figure class="portfolio-item">
+                                            <div style="width: 100%; height: 38vh;">
+                                                <img src="images/works/brochure_design/01.jpg" alt="">
+                                            </div>
+                                            <figcaption>
+                                                <div class="outer">
+                                                    <div class="inner">
+                                                        <span>my work</span>
+                                                        <h3 class="title">Logo Designs</h3>
+                                                    </div>
+                                                </div>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </a>
+                                     <!-- portfolio item 06-->
+                                     <a href="work-6.html" class="col-xl-4 col-lg-6 col-md-6 grid-item photography">
+                                        <div class="work-holder scale-animation" data-delay=".6" data-duration="2">
+                                            <figure class="portfolio-item">
+                                                <div style="width: 100%; height: 38vh;">
+                                                    <img src="images/works/brochure_design/01.jpg" alt="">
+                                                </div>
+                                                <figcaption>
+                                                    <div class="outer">
+                                                        <div class="inner">
+                                                            <span>my work</span>
+                                                            <h3 class="title">Other Disaign</h3>
+                                                        </div>
+                                                    </div>
+                                                </figcaption>
+                                            </figure>
+                                        </div>
+                                    </a>
+
+                            </div>
+                        </section>
